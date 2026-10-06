@@ -15,4 +15,4 @@ celkova_castka += spropitne_Kc # složene přiřazení
 
 # celkova_castka = celkova_castka + spropitne_Kc
 zaplacena_castka = round(celkova_castka / pocet_osob, 2)
-print(f"Každý člověk by měl dát: {zaplacena_castka} Kč ty chudáku" )
+print(f"Každý člověk by měl dát: {zaplacena_castka} Kč " )
