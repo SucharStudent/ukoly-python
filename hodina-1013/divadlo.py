@@ -26,6 +26,3 @@ elif vek>= 65 :
 vysledna_cena = cena * pocet_osob
 print(f"Cena za jednu vstupenku: {cena} Kč")
 print(f"Všechny vstupenky vás budou stát celkem: {vysledna_cena} Kč")
-
-
-
